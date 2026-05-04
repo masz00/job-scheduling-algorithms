@@ -1,0 +1,9 @@
+/wykład
+*.pdf
+pliki_wynikowe/
+solutions_test/
+instancje/
+*.txt
+!requirements.txt
+__pycache__/
+.vscode/ 
